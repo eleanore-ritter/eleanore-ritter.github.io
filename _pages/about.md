@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I received my BA in Biology from Skidmore College, where I worked with Dr. David Domozych studying the green alga *Penium margaritaceum*. I recently defended my PhD dissertation on grapevine genetics and development in the Department of Plant Biology at Michigan State University and will be graduating in May 2024. In May 2024, I am starting a post-doc with Dr. Andrea Sweigart at the University of Georgia.

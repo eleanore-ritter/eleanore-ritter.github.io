@@ -5,7 +5,7 @@ permalink: /projects/
 description: Still a work in progress; stay tuned!
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [present, past]
 horizontal: false
 ---
 
